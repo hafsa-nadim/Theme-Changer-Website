@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+
+
+.theme-blue {
+  background: #4B9CD3;
+  min-height: 100vh;
+}
+
+.theme-pink {
+  background: #F7BFBE;
+  min-height: 100vh;
+}
+
+.theme-green {
+  background: #90EE90;
+  min-height: 100vh;
+}
+
+.theme-purple {
+  background: #E0B0FF;
+  min-height: 100vh;
+}
+
+.theme-dark {
+  background: #111;
+  color: white;
+  min-height: 100vh;
+}
+
+.theme-dark .theme-btn {
+  background: #444;
+}
